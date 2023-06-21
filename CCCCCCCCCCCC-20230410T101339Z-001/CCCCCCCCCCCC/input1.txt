@@ -1,0 +1,6 @@
+if (a<b)
+    c = b+d
+    d = i+j
+else
+    d = a+b
+    k = x+y
